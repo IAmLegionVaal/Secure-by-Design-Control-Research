@@ -1,0 +1,4 @@
+Product,Owner,ControlArea,ControlName,Implemented,DefaultSecure,Evidence,ReviewFrequency,Risk,Notes
+Customer Portal,Application Team,Authentication,Multi-factor authentication,Yes,Yes,Architecture review and configuration export,Quarterly,High,Example established control
+Customer Portal,Application Team,Logging,Security event logging,Yes,No,Logging standard reference,Quarterly,Medium,Example developing control
+Legacy Service,Platform Team,Dependency Management,Automated dependency review,No,No,,Monthly,High,Example gap
